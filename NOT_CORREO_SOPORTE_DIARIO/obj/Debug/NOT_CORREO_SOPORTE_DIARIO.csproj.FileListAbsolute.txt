@@ -1,0 +1,41 @@
+d:\datos de usuarios\s73659\my documents\visual studio 2015\Projects\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\bin\Debug\NOT_CORREO_SOPORTE_DIARIO.exe.config
+d:\datos de usuarios\s73659\my documents\visual studio 2015\Projects\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\obj\Debug\NOT_CORREO_SOPORTE_DIARIO.Properties.Resources.resources
+d:\datos de usuarios\s73659\my documents\visual studio 2015\Projects\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\obj\Debug\NOT_CORREO_SOPORTE_DIARIO.csproj.GenerateResource.Cache
+d:\datos de usuarios\s73659\my documents\visual studio 2015\Projects\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\bin\Debug\NOT_CORREO_SOPORTE_DIARIO.exe
+d:\datos de usuarios\s73659\my documents\visual studio 2015\Projects\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\bin\Debug\NOT_CORREO_SOPORTE_DIARIO.pdb
+d:\datos de usuarios\s73659\my documents\visual studio 2015\Projects\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\bin\Debug\log4net.dll
+d:\datos de usuarios\s73659\my documents\visual studio 2015\Projects\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\bin\Debug\log4net.Ext.Json.dll
+d:\datos de usuarios\s73659\my documents\visual studio 2015\Projects\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\bin\Debug\log4net.Ext.Json.Serializers.Newtonsoft.dll
+d:\datos de usuarios\s73659\my documents\visual studio 2015\Projects\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\bin\Debug\Microsoft.Exchange.WebServices.Auth.dll
+d:\datos de usuarios\s73659\my documents\visual studio 2015\Projects\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\bin\Debug\Microsoft.Exchange.WebServices.dll
+d:\datos de usuarios\s73659\my documents\visual studio 2015\Projects\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\bin\Debug\Newtonsoft.Json.dll
+d:\datos de usuarios\s73659\my documents\visual studio 2015\Projects\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\bin\Debug\log4net.xml
+d:\datos de usuarios\s73659\my documents\visual studio 2015\Projects\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\bin\Debug\log4net.Ext.Json.xml
+d:\datos de usuarios\s73659\my documents\visual studio 2015\Projects\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\bin\Debug\Microsoft.Exchange.WebServices.pdb
+d:\datos de usuarios\s73659\my documents\visual studio 2015\Projects\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\bin\Debug\Microsoft.Exchange.WebServices.xml
+d:\datos de usuarios\s73659\my documents\visual studio 2015\Projects\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\bin\Debug\Microsoft.Exchange.WebServices.Auth.pdb
+d:\datos de usuarios\s73659\my documents\visual studio 2015\Projects\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\bin\Debug\Microsoft.Exchange.WebServices.Auth.xml
+d:\datos de usuarios\s73659\my documents\visual studio 2015\Projects\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\bin\Debug\Newtonsoft.Json.xml
+d:\datos de usuarios\s73659\my documents\visual studio 2015\Projects\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\obj\Debug\NOT_CORREO_SOPORTE_DIARIO.exe
+d:\datos de usuarios\s73659\my documents\visual studio 2015\Projects\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\obj\Debug\NOT_CORREO_SOPORTE_DIARIO.pdb
+D:\Datos de Usuarios\S83491\Desktop\ROBOTS OFFICE 365\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\bin\Debug\NOT_CORREO_SOPORTE_DIARIO.exe.config
+D:\Datos de Usuarios\S83491\Desktop\ROBOTS OFFICE 365\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\obj\Debug\NOT_CORREO_SOPORTE_DIARIO.exe
+D:\Datos de Usuarios\S83491\Desktop\ROBOTS OFFICE 365\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\obj\Debug\NOT_CORREO_SOPORTE_DIARIO.pdb
+D:\Datos de Usuarios\S83491\Desktop\ROBOTS OFFICE 365\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\bin\Debug\NOT_CORREO_SOPORTE_DIARIO.exe
+D:\Datos de Usuarios\S83491\Desktop\ROBOTS OFFICE 365\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\bin\Debug\NOT_CORREO_SOPORTE_DIARIO.pdb
+D:\Datos de Usuarios\S83491\Desktop\ROBOTS OFFICE 365\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\bin\Debug\log4net.dll
+D:\Datos de Usuarios\S83491\Desktop\ROBOTS OFFICE 365\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\bin\Debug\log4net.Ext.Json.dll
+D:\Datos de Usuarios\S83491\Desktop\ROBOTS OFFICE 365\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\bin\Debug\log4net.Ext.Json.Serializers.Newtonsoft.dll
+D:\Datos de Usuarios\S83491\Desktop\ROBOTS OFFICE 365\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\bin\Debug\Microsoft.Exchange.WebServices.Auth.dll
+D:\Datos de Usuarios\S83491\Desktop\ROBOTS OFFICE 365\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\bin\Debug\Microsoft.Exchange.WebServices.dll
+D:\Datos de Usuarios\S83491\Desktop\ROBOTS OFFICE 365\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\bin\Debug\Newtonsoft.Json.dll
+D:\Datos de Usuarios\S83491\Desktop\ROBOTS OFFICE 365\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\bin\Debug\log4net.xml
+D:\Datos de Usuarios\S83491\Desktop\ROBOTS OFFICE 365\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\bin\Debug\log4net.Ext.Json.xml
+D:\Datos de Usuarios\S83491\Desktop\ROBOTS OFFICE 365\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\bin\Debug\Microsoft.Exchange.WebServices.pdb
+D:\Datos de Usuarios\S83491\Desktop\ROBOTS OFFICE 365\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\bin\Debug\Microsoft.Exchange.WebServices.xml
+D:\Datos de Usuarios\S83491\Desktop\ROBOTS OFFICE 365\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\bin\Debug\Microsoft.Exchange.WebServices.Auth.pdb
+D:\Datos de Usuarios\S83491\Desktop\ROBOTS OFFICE 365\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\bin\Debug\Microsoft.Exchange.WebServices.Auth.xml
+D:\Datos de Usuarios\S83491\Desktop\ROBOTS OFFICE 365\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\bin\Debug\Newtonsoft.Json.xml
+D:\Datos de Usuarios\S83491\Desktop\ROBOTS OFFICE 365\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\obj\Debug\NOT_CORREO_SOPORTE_DIARIO.csprojResolveAssemblyReference.cache
+D:\Datos de Usuarios\S83491\Desktop\ROBOTS OFFICE 365\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\obj\Debug\NOT_CORREO_SOPORTE_DIARIO.Properties.Resources.resources
+D:\Datos de Usuarios\S83491\Desktop\ROBOTS OFFICE 365\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\NOT_CORREO_SOPORTE_DIARIO\obj\Debug\NOT_CORREO_SOPORTE_DIARIO.csproj.GenerateResource.Cache
